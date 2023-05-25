@@ -3,7 +3,7 @@
     <title>Vertex Violence</title>
     <link href="https://propiro.github.io/vv/feed.xml" rel="self" />
     <link href="https://propiro.github.io/vv" />
-    <updated>2023-05-25T20:50:28+02:00</updated>
+    <updated>2023-05-25T21:26:13+02:00</updated>
     <author>
         <name>piro</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="CYBER"/>
             <category term="ACC_MISC"/>
 
-        <updated>2023-05-25T20:50:28+02:00</updated>
+        <updated>2023-05-25T21:26:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://propiro.github.io/vv/media/posts/2/2023-04-10_13h31_08.jpg" alt="" />
@@ -34,7 +34,7 @@
                 <p>TEST PRODUCT PAGE 2</p>
 <figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/2/2023-04-10_13h30_58.jpg" alt="" width="1280" height="958" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-md.jpg 768w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-xl.jpg 1600w"><figcaption>BEST PRODUCT EVER 2</figcaption></figure>
 <p> </p>
-<p><button class="snipcart-add-item" data-item-id="2" data-item-name="TEST PRODUCT PAGE 2" data-item-price="25.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT CYBER WALLET"> Buy the TEST PRODUCT CYBER WALLET </button></p>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="2" data-item-name="TEST PRODUCT PAGE 2" data-item-price="25.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT CYBER WALLET"> Buy the TEST PRODUCT CYBER WALLET </button></span></p>
             ]]>
         </content>
     </entry>
