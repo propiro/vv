@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vertex Violence</title>
+    <link href="https://propiro.github.io/vv/feed.xml" rel="self" />
+    <link href="https://propiro.github.io/vv" />
+    <updated>2023-05-25T16:02:18+02:00</updated>
+    <author>
+        <name>piro</name>
+    </author>
+    <id>https://propiro.github.io/vv</id>
+
+    <entry>
+        <title>TEST PRODUCT TITLE 1</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-1.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-1.html</id>
+            <category term="VV"/>
+            <category term="PRODUCT"/>
+            <category term="ACC"/>
+
+        <updated>2023-05-25T16:02:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                    TEST PRODUCT PAGE 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TEST PRODUCT PAGE 1</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/1/ezgif.com-optimize-1.gif" alt="" width="407" height="307"><figcaption>BEST PRODUCT EVER 1</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

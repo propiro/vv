@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vertex Violence",
+    "description": "",
+    "home_page_url": "https://propiro.github.io/vv",
+    "feed_url": "https://propiro.github.io/vv/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "piro"
+    },
+    "items": [
+        {
+            "id": "https://propiro.github.io/vv/test-product-title-1.html",
+            "url": "https://propiro.github.io/vv/test-product-title-1.html",
+            "title": "TEST PRODUCT TITLE 1",
+            "summary": "TEST PRODUCT PAGE 1",
+            "content_html": "<p>TEST PRODUCT PAGE 1</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://propiro.github.io/vv/media/posts/1/ezgif.com-optimize-1.gif\" alt=\"\" width=\"407\" height=\"307\"><figcaption>BEST PRODUCT EVER 1</figcaption></figure>\n<p> </p>",
+            "author": {
+                "name": "piro"
+            },
+            "tags": [
+                   "VV",
+                   "PRODUCT",
+                   "ACC"
+            ],
+            "date_published": "2023-05-25T16:00:09+02:00",
+            "date_modified": "2023-05-25T16:02:18+02:00"
+        }
+    ]
+}
