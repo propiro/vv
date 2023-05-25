@@ -16,7 +16,7 @@
             "title": "TEST PRODUCT TITLE 2",
             "summary": "TEST PRODUCT PAGE 2 Buy the TEST PRODUCT CYBER WALLET",
             "content_html": "<p>TEST PRODUCT PAGE 2</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://propiro.github.io/vv/media/posts/2/2023-04-10_13h30_58.jpg\" alt=\"\" width=\"1280\" height=\"958\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-md.jpg 768w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/2/responsive/2023-04-10_13h30_58-xl.jpg 1600w\"><figcaption>BEST PRODUCT EVER 2</figcaption></figure>\n<p> </p>\n<p><button class=\"snipcart-add-item\" data-item-id=\"2\" data-item-name=\"TEST PRODUCT PAGE 2\" data-item-price=\"25.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://propiro.github.io/vv/\" data-item-description=\"TEST PRODUCT CYBER WALLET\"> Buy the TEST PRODUCT CYBER WALLET </button></p>",
-            "image": "https://propiro.github.io/vv/media/posts/2/ezgif.com-optimize-1-2.gif",
+            "image": "https://propiro.github.io/vv/media/posts/2/2023-04-10_13h31_08.jpg",
             "author": {
                 "name": "piro"
             },
@@ -26,7 +26,7 @@
                    "ACC_MISC"
             ],
             "date_published": "2023-05-25T20:45:39+02:00",
-            "date_modified": "2023-05-25T20:48:55+02:00"
+            "date_modified": "2023-05-25T20:50:28+02:00"
         },
         {
             "id": "https://propiro.github.io/vv/test-product-title-1.html",
