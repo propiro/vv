@@ -3,12 +3,151 @@
     <title>Vertex Violence</title>
     <link href="https://propiro.github.io/vv/feed.xml" rel="self" />
     <link href="https://propiro.github.io/vv" />
-    <updated>2023-05-25T21:37:24+02:00</updated>
+    <updated>2023-05-25T22:00:57+02:00</updated>
     <author>
         <name>piro</name>
     </author>
     <id>https://propiro.github.io/vv</id>
 
+    <entry>
+        <title>TEST PRODUCT TITLE 8</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-8.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-8.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/9/photo_5785205379188245102_y-2.jpg" medium="image" />
+            <category term="WAR"/>
+            <category term="VV"/>
+            <category term="PRODUCT"/>
+            <category term="ACC_STOCK"/>
+
+        <updated>2023-05-25T22:00:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/9/photo_5785205379188245102_y-2.jpg" alt="" />
+                    TEST PRODUCT PAGE 8 Buy the TEST PRODUCT STOCK ALT
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/9/photo_5785205379188245102_y-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 8</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/9/photo_5785205379188245102_y.jpg" alt="" width="1280" height="960" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/9/responsive/photo_5785205379188245102_y-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/9/responsive/photo_5785205379188245102_y-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/9/responsive/photo_5785205379188245102_y-md.jpg 768w ,https://propiro.github.io/vv/media/posts/9/responsive/photo_5785205379188245102_y-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/9/responsive/photo_5785205379188245102_y-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="8" data-item-name="TEST PRODUCT PAGE 8" data-item-price="25.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT STOCK ALT"> Buy the TEST PRODUCT STOCK ALT </button></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST PRODUCT TITLE 7</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-7.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-7.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/8/Rambox_1HWLOajEJE.png" medium="image" />
+            <category term="WAR"/>
+            <category term="VV"/>
+            <category term="PRODUCT"/>
+            <category term="ACC_BARREL"/>
+
+        <updated>2023-05-25T21:59:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/8/Rambox_1HWLOajEJE.png" alt="" />
+                    TEST PRODUCT PAGE 7 Buy the TEST PRODUCT SUPRESSOR
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/8/Rambox_1HWLOajEJE.png" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 7</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/8/photo_5798776535245765311_y.jpg" alt="" width="1280" height="960" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/8/responsive/photo_5798776535245765311_y-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/8/responsive/photo_5798776535245765311_y-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/8/responsive/photo_5798776535245765311_y-md.jpg 768w ,https://propiro.github.io/vv/media/posts/8/responsive/photo_5798776535245765311_y-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/8/responsive/photo_5798776535245765311_y-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="7" data-item-name="TEST PRODUCT PAGE 7" data-item-price="25.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT SUPRESSOR"> Buy the TEST PRODUCT SUPRESSOR </button></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST PRODUCT TITLE 6</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-6.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-6.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/7/photo_5791834068504131885_y.jpg" medium="image" />
+            <category term="WAR"/>
+            <category term="PRODUCT"/>
+            <category term="ACC_GRIP"/>
+
+        <updated>2023-05-25T21:56:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/7/photo_5791834068504131885_y.jpg" alt="" />
+                    TEST PRODUCT PAGE 6 Buy the TEST PRODUCT GRIP
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/7/photo_5791834068504131885_y.jpg" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 6</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/7/photo_5791834068504131885_y-2.jpg" alt="" width="941" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/7/responsive/photo_5791834068504131885_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/7/responsive/photo_5791834068504131885_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/7/responsive/photo_5791834068504131885_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/7/responsive/photo_5791834068504131885_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/7/responsive/photo_5791834068504131885_y-2-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="6" data-item-name="TEST PRODUCT PAGE 6" data-item-price="15.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT GRIP"> Buy the TEST PRODUCT GRIP </button></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST PRODUCT TITLE 5</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-5.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-5.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/6/photo_6039789479759296880_y.jpg" medium="image" />
+            <category term="WAR"/>
+            <category term="PRODUCT"/>
+            <category term="ACC_KIT"/>
+
+        <updated>2023-05-25T21:56:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/6/photo_6039789479759296880_y.jpg" alt="" />
+                    TEST PRODUCT PAGE 5 Buy the TEST PRODUCT REVOLVER KIT
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/6/photo_6039789479759296880_y.jpg" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 5</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/6/photo_6039789479759296880_y-2.jpg" alt="" width="960" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/6/responsive/photo_6039789479759296880_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/6/responsive/photo_6039789479759296880_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/6/responsive/photo_6039789479759296880_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/6/responsive/photo_6039789479759296880_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/6/responsive/photo_6039789479759296880_y-2-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="5" data-item-name="TEST PRODUCT PAGE 5" data-item-price="45.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT REVOLVER KIT"> Buy the TEST PRODUCT REVOLVER KIT </button></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ABOUT VERTEX VIOLENCE</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/about-vertex-violence.html"/>
+        <id>https://propiro.github.io/vv/about-vertex-violence.html</id>
+            <category term="ABOUT"/>
+
+        <updated>2023-05-25T21:44:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    [TODO] hello i sell homemade war gear accessories please buy no bully its 3d printed so it might be wonky
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>[TODO]</p>
+<p>hello</p>
+<p>i sell homemade war gear accessories</p>
+<p>please buy no bully</p>
+<p>its 3d printed so it might be wonky</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TEST PRODUCT TITLE 4</title>
         <author>
@@ -21,7 +160,7 @@
             <category term="CYBER"/>
             <category term="ACC_MISC"/>
 
-        <updated>2023-05-25T21:37:24+02:00</updated>
+        <updated>2023-05-25T21:54:50+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y.jpg" alt="" />
@@ -45,11 +184,12 @@
         <link href="https://propiro.github.io/vv/test-product-title-3.html"/>
         <id>https://propiro.github.io/vv/test-product-title-3.html</id>
         <media:content url="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg" medium="image" />
+            <category term="WAR"/>
             <category term="VV"/>
             <category term="PRODUCT"/>
             <category term="ACC_STOCK"/>
 
-        <updated>2023-05-25T21:35:23+02:00</updated>
+        <updated>2023-05-25T21:54:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg" alt="" />
