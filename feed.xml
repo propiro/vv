@@ -3,12 +3,68 @@
     <title>Vertex Violence</title>
     <link href="https://propiro.github.io/vv/feed.xml" rel="self" />
     <link href="https://propiro.github.io/vv" />
-    <updated>2023-05-25T21:26:13+02:00</updated>
+    <updated>2023-05-25T21:37:24+02:00</updated>
     <author>
         <name>piro</name>
     </author>
     <id>https://propiro.github.io/vv</id>
 
+    <entry>
+        <title>TEST PRODUCT TITLE 4</title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-4.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-4.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y.jpg" medium="image" />
+            <category term="PRODUCT"/>
+            <category term="CYBER"/>
+            <category term="ACC_MISC"/>
+
+        <updated>2023-05-25T21:37:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y.jpg" alt="" />
+                    TEST PRODUCT PAGE 4 Buy the TEST PRODUCT CYBER KEYCHAIN
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y.jpg" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 4</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y-2.jpg" alt="" width="960" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="4" data-item-name="TEST PRODUCT PAGE 4" data-item-price="15.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT CYBER KEYCHAIN"> Buy the TEST PRODUCT CYBER KEYCHAIN </button></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST PRODUCT TITLE 3 </title>
+        <author>
+            <name>piro</name>
+        </author>
+        <link href="https://propiro.github.io/vv/test-product-title-3.html"/>
+        <id>https://propiro.github.io/vv/test-product-title-3.html</id>
+        <media:content url="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg" medium="image" />
+            <category term="VV"/>
+            <category term="PRODUCT"/>
+            <category term="ACC_STOCK"/>
+
+        <updated>2023-05-25T21:35:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg" alt="" />
+                    TEST PRODUCT PAGE 3 Buy the TEST PRODUCT RIFLE STOCK
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg" class="type:primaryImage" alt="" /></p>
+                <p>TEST PRODUCT PAGE 3</p>
+<figure class="post__image"><img loading="lazy"  src="https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y-2.jpg" alt="" width="1280" height="960" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-xl.jpg 1600w"></figure>
+<p><span style="color: #34495e;"><button class="snipcart-add-item" data-item-id="3" data-item-name="TEST PRODUCT PAGE 3" data-item-price="99.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://propiro.github.io/vv/" data-item-description="TEST PRODUCT RIFLE STOCK"> Buy the TEST PRODUCT RIFLE STOCK </button></span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TEST PRODUCT TITLE 2</title>
         <author>
@@ -21,7 +77,7 @@
             <category term="CYBER"/>
             <category term="ACC_MISC"/>
 
-        <updated>2023-05-25T21:26:13+02:00</updated>
+        <updated>2023-05-25T21:35:30+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://propiro.github.io/vv/media/posts/2/2023-04-10_13h31_08.jpg" alt="" />
@@ -50,7 +106,7 @@
             <category term="PRODUCT"/>
             <category term="ACC_MISC"/>
 
-        <updated>2023-05-25T16:33:24+02:00</updated>
+        <updated>2023-05-25T21:35:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://propiro.github.io/vv/media/posts/1/ezgif.com-optimize-1-2.gif" alt="" />

@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://propiro.github.io/vv/test-product-title-4.html",
+            "url": "https://propiro.github.io/vv/test-product-title-4.html",
+            "title": "TEST PRODUCT TITLE 4",
+            "summary": "TEST PRODUCT PAGE 4 Buy the TEST PRODUCT CYBER KEYCHAIN",
+            "content_html": "<p>TEST PRODUCT PAGE 4</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y-2.jpg\" alt=\"\" width=\"960\" height=\"1280\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/4/responsive/photo_5865999645375840123_y-2-xl.jpg 1600w\"></figure>\n<p><span style=\"color: #34495e;\"><button class=\"snipcart-add-item\" data-item-id=\"4\" data-item-name=\"TEST PRODUCT PAGE 4\" data-item-price=\"15.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://propiro.github.io/vv/\" data-item-description=\"TEST PRODUCT CYBER KEYCHAIN\"> Buy the TEST PRODUCT CYBER KEYCHAIN </button></span></p>",
+            "image": "https://propiro.github.io/vv/media/posts/4/photo_5865999645375840123_y.jpg",
+            "author": {
+                "name": "piro"
+            },
+            "tags": [
+                   "PRODUCT",
+                   "CYBER",
+                   "ACC_MISC"
+            ],
+            "date_published": "2023-05-25T21:32:59+02:00",
+            "date_modified": "2023-05-25T21:37:24+02:00"
+        },
+        {
+            "id": "https://propiro.github.io/vv/test-product-title-3.html",
+            "url": "https://propiro.github.io/vv/test-product-title-3.html",
+            "title": "TEST PRODUCT TITLE 3 ",
+            "summary": "TEST PRODUCT PAGE 3 Buy the TEST PRODUCT RIFLE STOCK",
+            "content_html": "<p>TEST PRODUCT PAGE 3</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y-2.jpg\" alt=\"\" width=\"1280\" height=\"960\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-xs.jpg 384w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-sm.jpg 600w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-md.jpg 768w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-lg.jpg 1200w ,https://propiro.github.io/vv/media/posts/3/responsive/photo_5870789208220743879_y-2-xl.jpg 1600w\"></figure>\n<p><span style=\"color: #34495e;\"><button class=\"snipcart-add-item\" data-item-id=\"3\" data-item-name=\"TEST PRODUCT PAGE 3\" data-item-price=\"99.00\" data-item-image=\"https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png\" data-item-weight=\"10\" data-item-url=\"https://propiro.github.io/vv/\" data-item-description=\"TEST PRODUCT RIFLE STOCK\"> Buy the TEST PRODUCT RIFLE STOCK </button></span></p>",
+            "image": "https://propiro.github.io/vv/media/posts/3/photo_5870789208220743879_y.jpg",
+            "author": {
+                "name": "piro"
+            },
+            "tags": [
+                   "VV",
+                   "PRODUCT",
+                   "ACC_STOCK"
+            ],
+            "date_published": "2023-05-25T21:28:31+02:00",
+            "date_modified": "2023-05-25T21:35:23+02:00"
+        },
+        {
             "id": "https://propiro.github.io/vv/test-product-title-2.html",
             "url": "https://propiro.github.io/vv/test-product-title-2.html",
             "title": "TEST PRODUCT TITLE 2",
@@ -26,7 +62,7 @@
                    "ACC_MISC"
             ],
             "date_published": "2023-05-25T20:45:39+02:00",
-            "date_modified": "2023-05-25T21:26:13+02:00"
+            "date_modified": "2023-05-25T21:35:30+02:00"
         },
         {
             "id": "https://propiro.github.io/vv/test-product-title-1.html",
@@ -44,7 +80,7 @@
                    "ACC_MISC"
             ],
             "date_published": "2023-05-25T16:00:09+02:00",
-            "date_modified": "2023-05-25T16:33:24+02:00"
+            "date_modified": "2023-05-25T21:35:37+02:00"
         }
     ]
 }
