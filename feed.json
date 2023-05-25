@@ -15,6 +15,7 @@
             "title": "TEST PRODUCT TITLE 1",
             "summary": "TEST PRODUCT PAGE 1",
             "content_html": "<p>TEST PRODUCT PAGE 1</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://propiro.github.io/vv/media/posts/1/ezgif.com-optimize-1.gif\" alt=\"\" width=\"407\" height=\"307\"><figcaption>BEST PRODUCT EVER 1</figcaption></figure>\n<p> </p>",
+            "image": "https://propiro.github.io/vv/media/posts/1/ezgif.com-optimize-1-2.gif",
             "author": {
                 "name": "piro"
             },
@@ -24,7 +25,7 @@
                    "ACC"
             ],
             "date_published": "2023-05-25T16:00:09+02:00",
-            "date_modified": "2023-05-25T16:02:18+02:00"
+            "date_modified": "2023-05-25T16:14:03+02:00"
         }
     ]
 }
